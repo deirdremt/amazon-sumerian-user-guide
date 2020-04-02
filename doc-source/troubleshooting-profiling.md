@@ -43,3 +43,6 @@ document.cookie = 'sumerianProfiling=;path=/'
 For Oculus Go and other Android devices, put your device in developer mode and connect to it from the **DevTools** menu\. For Oculus Go, see [Device Setup \- Oculus Go](https://developer.oculus.com/documentation/mobilesdk/latest/concepts/mobile-device-setup-go/)\. For other devices, see [Get Started with Remote Debugging Android Devices](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)\.
 
 For Firefox, you can use the Gecko Profiler Add\-on\. Use the same commands in the browser console to set and unset the cookie\. See [Profiling with the Gecko Profiler](https://developer.mozilla.org/en-US/docs/Mozilla/Performance/Profiling_with_the_Built-in_Profiler) for more information\.
+
+
+**See [Known Issues and Work-Arounds](https://aws.amazon.com/releasenotes/amazon-sumerian-known-issues/?tag=releasenotes%23keywords%23amazon-sumerian)** for additional information
